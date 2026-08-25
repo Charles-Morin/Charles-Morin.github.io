@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='mailto:charles.morin3@mail.mcgill.ca'>charles.morin3@mail.mcgill.ca</a>"
 
 profile:
   align: right
