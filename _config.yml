@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <b>Charles</b>Morin # the website title (if blank, full name will be used instead)
-first_name: Charles
+title: Charles Morin # the website title (if blank, full name will be used instead)(Title in browser)
+first_name: <b>Charles</b>
 last_name: Morin
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I am most responsive by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Undergrad in Mechanical Engineering at McGill University.
   Master of Science - Mechanical Engineering, specialized in navigation.
