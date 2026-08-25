@@ -228,8 +228,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: []
 exclude:
+  - _pages
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
